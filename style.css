@@ -1,0 +1,160 @@
+@media screen and (max-width: 576px) {
+    .video{
+        position: absolute;
+        top:350px;
+        left: 22%;
+        width: 60%;
+        height: 65%;
+    }
+    .discount_offer {
+      
+      background-size: auto;
+      margin-top: 00px;
+
+    }
+    .discount_offer img{
+        width: 75%;
+    }
+    .features img{
+        width: 75%;
+    }
+    .pinbotpics img{
+        width: 80%;
+        padding: 10px;
+    }
+    .availoffer .imgbuy{
+        width: 80%;
+    }
+  }
+
+header{
+    background: url(images/bg1.png);
+}
+
+header h4{
+    background-color:black ;
+    color: white;
+    border-radius: 30px;
+    width:75%;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 150px;
+}
+header span{
+    color: red;
+}
+
+.video{
+    position: absolute;
+    top:350px;
+    left: 22%;
+    width: 60%;
+
+    height: 65%;
+}
+
+.discount_offer{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-image: url(images/bg2.png);
+}
+.discount_offer  {
+    margin-top: 300px;
+}
+.discount_offer  h1{
+    color: red;
+}
+.discount_offer  span{
+    font-weight: bold;
+    color: green;
+}
+
+
+.pinbot_fact{
+    background-color: darkgray;
+}
+
+.number{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding-top: 22px;
+}
+
+.aboutpinbot{
+    background-image: url(images/bg3.png);
+    background-position: center;
+}
+
+.lastchance{
+    background-image: url(images/bg4.png);
+    background-position: center;
+}
+
+#btnpill{
+    
+        border: none;
+        color: black;
+        padding: 10px 20px;
+        width:300px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 40px;
+        color: white;
+}
+#btnpill_1{
+    
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    width:300px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: white;
+    border-radius: 40px;
+}
+
+.faqli{
+    background-color:#F4F4F4;
+    padding: 5px;
+    list-style-type: none;
+    color: black;
+    margin: 7px;
+}
+.faqli img{
+
+    width: 35px;
+    height: 22px;
+}
+
+#li_ans1,#li_ans2,#li_ans3,#li_ans4,#li_ans5,#li_ans6,#li_ans7,#li_ans8,#li_ans9,#li_ans10,#li_ans11{
+    display: none;
+}
+
+.testimonial{
+    background-image: url(images/bg5.png);
+     background-position: center;
+}
+
+footer{
+    background-color:rgb(125,132,140) ;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+    display:block;
+}
